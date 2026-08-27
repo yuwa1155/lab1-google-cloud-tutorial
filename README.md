@@ -12,7 +12,7 @@ provided in class. You can individually request 200 from [here](https://services
 
 At the end of the second lab, edit a file called test.txt.  Write your name into that file.  
 Then, in the gcloud shell run "cat test.txt" and take a screen shot.
-![Screen capture of test output](./lab1-finish-dirk.png)
+![Screen capture of test output](./lab1-finish-YuxiangWang.png)
 
 You should name your image something like
 "lab1-finish-YOURNAME.png". You should then modify this README.md to
